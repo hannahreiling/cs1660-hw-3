@@ -10,7 +10,7 @@ Requirements
 - Your input data file. Uploaded to OneDrive 
   - long.txt.zip (53.5 MB when unzipped)
 - Screenshot of the Word Count Output
-  - Screenshot of part of output: 
+  - Screenshot of part of output: part-output.png
   - Text file of actual output: long-results.txt
 
 Tutorials used:

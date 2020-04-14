@@ -6,7 +6,7 @@ Requirements
 - *Part 2:* Screenshot of your implementation of Word Count on Azure 
   - Actual implementation of Word Count used: part-2/WordCount.java (taken from tutorial below)
   - Screenshot of terminal command: part-2/terminal-commands.png
-  - Screenshot of data/output uploaded to cluster: uploaded-to-cluster.png (look for long.txt file and long-results output)
+  - Screenshot of data/output uploaded to cluster: part-2/uploaded-to-cluster.png (look for long.txt file and long-results output)
 - *Part 3:* Your input data file. Uploaded to OneDrive 
   - part-3/long.txt.zip (53.5 MB when unzipped)
 - *Part 4:* Screenshot of the Word Count Output

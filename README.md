@@ -11,7 +11,7 @@ Requirements
   - long.txt.zip (53.5 MB when unzipped)
 - Screenshot of the Word Count Output
   - Screenshot of part of output: 
-  - Text file of actual output: 
+  - Text file of actual output: long-results.txt
 
 Tutorials used:
 - https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-develop-deploy-java-mapreduce-linux

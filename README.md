@@ -7,4 +7,4 @@ Requirements
 - Screenshot of the Word Count Output
 
 Tutorials used:
-- apache-hadoop- develop-deploy-java-mapreduce-linux
+- https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-develop-deploy-java-mapreduce-linux

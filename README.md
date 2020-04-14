@@ -5,3 +5,6 @@ Requirements
 - Screenshot of your implementation of Word Count on Azure 
 - Your input data file. Uploaded to OneDrive (long.txt.zip; 53.5 MB when unzipped)
 - Screenshot of the Word Count Output
+
+Tutorials used:
+- apache-hadoop- develop-deploy-java-mapreduce-linux
